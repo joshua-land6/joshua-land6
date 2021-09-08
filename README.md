@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshua-land6
-- 👀 I’m interested in ... learning more programming while work on my bachelors degree.
+- 👀 I’m interested in ... learning more programming while I work on my bachelors degree.
 - 🌱 I’m currently learning ... c++ but have worked with python, java, c# a little. 
 - 💞️ I’m looking to collaborate on ... whatever I can.
 - 📫 How to reach me ... email is best Joshua.land6@gmail.com
